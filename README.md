@@ -1,4 +1,4 @@
-# AstroDo App
+# AstroDo App 🧑‍🚀🚀🌙
 ToDo List app astronaut galaxy themed.
 
 # About
